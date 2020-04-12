@@ -5,7 +5,7 @@ TODO ADD Circle ci handle
 ### Install
 
 ```
-git clone git@github.com:EdsonAlcala/remix-gas-profiler.git
+git clone git@github.com:Machinalabs/remix-etherscan.git
 
 npm install 
 
