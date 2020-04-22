@@ -1,6 +1,6 @@
 # Remix Etherscan Plugin
 
-TODO ADD Circle ci handle
+[![CircleCI](https://circleci.com/gh/Machinalabs/remix-etherscan.svg?style=svg)](https://circleci.com/gh/Machinalabs/remix-etherscan)
 
 ### Install
 
