@@ -102,9 +102,9 @@ workflows:
             - unit-tests
             - npm-audit
       - publish:
-        context: SolidStudio
-        requires:
-          - bundle
-        filters:
-          branches:
-            only: master
+          context: SolidStudio
+          requires:
+            - bundle
+          filters:
+            branches:
+              only: master
